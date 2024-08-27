@@ -8,7 +8,7 @@ Egestorffstraße 25 d, 12307 Berlin
 
 
 ## BERUFSERFAHRUNG
-**02.2022 - 11.2023 -- Qualitätssicherungsingenieurin / ISB** \
+**02.2022 - 11.2023 -- Qualitätssicherungsingenieurin / Informationssicherheitsbeauftragte** \
 Mindable GmbH, Berlin\
 Projekte:\
 Mobile App zur Unterstützung von Menschen mit Panikattacken und Agoraphobie\
@@ -44,7 +44,7 @@ Mobile App zur Unterstützung von Menschen mit Sozialphobie
 - Regelmäßige Berichterstattung und Aktualisierung des oberen Managements über die Informationssicherheitslage des Unternehmens, einschließlich Risiken, Bedrohungen und Gegenmaßnahmen
 </details>
 
-**07.2020 - 01.2022 -- Leiter Qualitätsingenieur**\
+**07.2021 - 01.2022 -- Leiter Qualitätsingenieur**\
 	AllAboutMe GmbH, Berlin\
 	Projekt: Digitale Programme zur Unterstützung der psychischen Gesundheit von Frauen in Deutschland
 <details>
