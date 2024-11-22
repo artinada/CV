@@ -1,7 +1,7 @@
 # LEBENSLAUF
 
 ## PERSÖNLICHE DATEN
-Nadiia Kamenska\
+Nadia Kamenski\
 E-Mail: artinada@gmail.com\
 Telefon: +4915787706065\
 Egestorffstraße 25 d, 12307 Berlin
