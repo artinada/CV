@@ -67,15 +67,13 @@ Mobile App zur Unterstützung von Menschen mit Sozialphobie
 - Überprüfung von Tests Dokumentationen und Testskripten
  </details>
 
-**10.2017 - 06.2021 -- Qualitätssicherungsingenieurin**\
+**03.2019 - 06.2021 -- Qualitätssicherungsingenieurin**\
 	Finiata GmbH, Berlin\
 	Projekt: Kapitalfinanzierung für Freiberufler und KMUs durch eine vollständig automatisierte, datengetriebene Scoring-Technologie
 <details>
 <summary>Verantwortlichkeiten:</summary>
 
 - Zusammenarbeit mit Produkt- und Entwicklungsteams zur Anforderungsanalyse
-
-- Analyse gemeldeter Warnungen, Fehler und Vorfälle sowie Entwicklung von Lösungsvorschlägen
 
 - Entwicklung eines Frameworks für die UI-Automatisierung (WDIO + Selenium)
 
@@ -84,6 +82,17 @@ Mobile App zur Unterstützung von Menschen mit Sozialphobie
 - Erstellung von End-to-End-Tests in Java (Cucumber + Selenium + TestNG)
 
 - Überprüfung von Integrations- und Unit-Tests (Cypress, jest)
+</details>
+
+**10.2017 - 03.2019 -- Qualitätssicherung Managerin**\
+	Finiata GmbH, Berlin\
+	Projekt: Kapitalfinanzierung für Freiberufler und KMUs durch eine vollständig automatisierte, datengetriebene Scoring-Technologie
+<details>
+<summary>Verantwortlichkeiten:</summary>
+
+- Zusammenarbeit mit Produkt- und Entwicklungsteams zur Anforderungsanalyse
+
+- Analyse gemeldeter Warnungen, Fehler und Vorfälle sowie Entwicklung von Lösungsvorschlägen
 
 - Durchführung manueller Tests an verschiedenen Modulen der Anwendung durch Ausführung von Testfällen oder exploratives Testen
 
