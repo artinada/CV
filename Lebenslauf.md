@@ -4,7 +4,8 @@
 Nadia Kamenski\
 E-Mail: artinada@gmail.com\
 Telefon: +4915787706065\
-Egestorffstraße 25 d, 12307 Berlin
+Egestorffstraße 25 d, 12307 Berlin\
+[LinkedIn](https://www.linkedin.com/in/nadia-kamenski-0749a323)
 
 
 ## BERUFSERFAHRUNG
