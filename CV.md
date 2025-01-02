@@ -102,7 +102,7 @@ Project: capital financing for freelancers and SME's over a fully automated data
 <details>
 <summary> Responsibilities: </summary>
 
-  - I was responsible for analyzing requirements to ensure they were complete, clear, and testable; I worked closely with Product and Development teams during sprint planning, refined requirements, and provided input on edge cases and dependencies. This collaboration reduced requirement-related defects by 20% and ensured smoother development and testing cycles.
+- I was responsible for analyzing requirements to ensure they were complete, clear, and testable; I worked closely with Product and Development teams during sprint planning, refined requirements, and provided input on edge cases and dependencies. This collaboration reduced requirement-related defects by 20% and ensured smoother development and testing cycles.
 
 - I needed to evaluate test management tools and implement a suitable framework to streamline QA activities. I analyzed tools like TestRail, Zephyr, and others, selected TestRail as the most suitable option, and configured it to align with the team’s workflow. I also trained the team on its usage. The implementation improved test case organization, increased traceability, and reduced time spent on test management by 40%
 
@@ -124,7 +124,7 @@ Projects: worked as a QA tester for crowd-sourced testing platform uTest that pr
 <details>
 <summary> Responsibilities: </summary>
 
-  - I was responsible for performing various types of manual testing, including functional, GUI, regression, usability, and ad-hoc testing, to identify potential issues and ensure a seamless user experience. I meticulously executed test scenarios, conducted exploratory testing for edge cases, and validated application behavior across different devices and platforms. My efforts ensured that 95% of critical defects were identified and resolved prior to production, significantly improving the user experience and reducing post-release support issues.
+- I was responsible for performing various types of manual testing, including functional, GUI, regression, usability, and ad-hoc testing, to identify potential issues and ensure a seamless user experience. I meticulously executed test scenarios, conducted exploratory testing for edge cases, and validated application behavior across different devices and platforms. My efforts ensured that 95% of critical defects were identified and resolved prior to production, significantly improving the user experience and reducing post-release support issues.
 
 - I was responsible for creating new test cases for application features and maintaining existing ones to reflect updates and changes. I authored detailed, reusable test cases with clear steps and expected outcomes, ensuring alignment with requirements. This effort improved the clarity and consistency of testing, reducing test preparation time by 30% and enhancing overall test coverage.
 
@@ -203,13 +203,14 @@ _Languages:_		PostgreSQL, GraphQL, PL/SQL; TypeScript, Java, Python (basics); HT
 _Tools:_ 		Xmind, TestRail; Postman, SoapUI; BrowserStack, Selenium IDE, Behave, ADB; 		DataGrip;  IntelliJ IDEA, Visual Studio Code; DataDog; CircleCI\
 _Frameworks:_ 		WDIO, Testcafe, Cypress, TestNG \
 _Bug Tracking:_ 		JIRA, Mantis, Bugzilla \
-_Source control:_ 		git, SVN\
+_Source control:_ 		git, SVN
 
 ## VOLUNTEERING
 **02.2024 - now -- Translator**\
 Life Bridge Ukraine, Berlin\
 Project: evacuation of heavily injured people from Ukraine to Berlin for medical treatment\
 Responsibilities: assist with translations and  accompany patients to a local doctor, various offices or organizations\
+
 **05.2020 - 05.2023 -- Web Administrator**\
 Die Sputniks e.V., Berlin\
 Project: association of Russian-speaking families with children with disabilities in Germany\
@@ -218,24 +219,24 @@ Responsibilities: managing and supporting https://die-sputniks.de
 ## EDUCATION 
 **1995 – 2000**\
 Kharkiv National University of Economics\
-Master's degree, Finances\
+Master's degree, Finances
 
 ## LICENSES AND CERTIFICATIONS 
 
 | Period  | Kurs |
 | ------------- | ------------- |
-| Juli 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
+| December 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
 | Juli 2024  | Google Cybersecurity Program (Coursera, e-Learning)  |
-| 06.2024 - 08.2024 | Cybersecurity and protection of information systems (robot_dreams school, e-Learning) |		
-| 05.2023 - 07.2023 | Cyber Security Basics (robot_dreams school, e-Learning) |			
-| 11.2020 - 01.2021 | Automated Software Testing with TestCafe (Udemy, e-Learning) |		 
+| August 2024 | Cybersecurity and protection of information systems (robot_dreams school, e-Learning) |		
+| July 2023 | Cyber Security Basics (robot_dreams school, e-Learning) |			
+| Januar 2021 | Automated Software Testing with TestCafe (Udemy, e-Learning) |		 
 | Mai 2020 | JavaScript for QA Engineers and SDETs (Udemy, e-Learning) |
 | April 2020 | Learn Cypress Framework for End to End UI Testing (Udemy, e-Learning)  |
 | September 2018 | Postman Crash Course for Beginners (Udemy, e-Learning) |	
 | Juni 2018 | Grundlagen des Datenschutzes (Finiata GmbH, Berlin) |			
-| März 2018 | Business Analyst: Software Testing Processes & Techniques (Udemy, e-Learning) |
+| March 2018 | Business Analyst: Software Testing Processes & Techniques (Udemy, e-Learning) |
 | April 2017 | Intro to Python for Data Science, Filip Schouwenaars (Coursera, e-Learning) |
-| 04.2016 - 05.2016 | Deutsch B1 (VHS, Berlin) |		
+| Mai 2016 | Deutsch B1 (VHS, Berlin) |		
 
 ## LANGUAGES 
 Ukrainian, Russian - Native \
