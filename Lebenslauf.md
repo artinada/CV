@@ -5,8 +5,8 @@ Nadia Kamenski\
 E-Mail: artinada@gmail.com\
 Telefon: +4915787706065\
 Egestorffstraße 25 d, 12307 Berlin\
-[LinkedIn](https://www.linkedin.com/in/nadia-kamenski-0749a323)
-
+[LinkedIn](https://www.linkedin.com/in/nadia-kamenski-0749a323), 
+[XING](https://www.xing.com/profile/Nadia_Kamenski)
 
 ## BERUFSERFAHRUNG
 **02.2022 - 11.2023 -- Qualitätssicherungsingenieurin / Informationssicherheitsbeauftragte** \
@@ -192,6 +192,7 @@ _Fehlerverfolgung_: JIRA, Mantis, Bugzilla
 **02.2024 – heute -- Life Bridge Ukraine**\
 Projekt: Evakuierung von schwer verletzten Personen aus der Ukraine nach Berlin zur medizinischen Behandlung\
 Verantwortlichkeiten: Unterstützung bei Übersetzungen und Begleitung von Patienten zu lokalen Ärzten, Behörden oder Organisationen.
+ https://www.life-bridge-ukraine.com
 
 **05.2020 – 05.2023 -- Die Sputniks e.V.**\
 Projekt: Vereinigung russischsprachiger Familien mit Kindern mit Behinderungen in Deutschland.\
@@ -205,18 +206,17 @@ Masterabschluss, Finanzen
 ## WEITERBILDUNG
 | Zeitraum  | Kurse |
 | ------------- | ------------- |
-| Juli 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
-| Juli 2024  | Google Cybersecurity Program (Coursera, e-Learning)  |
-| 06.2024 - 08.2024 | Cybersicherheit und Schutz von Informationssystemen (robot_dreams school, e-Learning) |		
-| 05.2023 - 07.2023 | Cyber Security Basics (robot_dreams school, e-Learning) |			
-| 11.2020 - 01.2021 | Automated Software Testing with TestCafe (Udemy, e-Learning) |		 
+| Dezember 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
+| August 2024 | Cybersicherheit und Schutz von Informationssystemen (robot_dreams school, e-Learning) |		
+| Juli 2023 | Cyber Security Basics (robot_dreams school, e-Learning) |			
+| Januar 2021 | Automated Software Testing with TestCafe (Udemy, e-Learning) |		 
 | Mai 2020 | JavaScript for QA Engineers and SDETs (Udemy, e-Learning) |
 | April 2020 | Learn Cypress Framework for End to End UI Testing (Udemy, e-Learning)  |
 | September 2018 | Postman Crash Course for Beginners (Udemy, e-Learning) |	
 | Juni 2018 | Grundlagen des Datenschutzes (Finiata GmbH, Berlin) |			
 | März 2018 | Business Analyst: Software Testing Processes & Techniques (Udemy, e-Learning) |
 | April 2017 | Intro to Python for Data Science, Filip Schouwenaars (Coursera, e-Learning) |
-| 04.2016 - 05.2016 | Deutsch B1 (VHS, Berlin) |		
+| Mai 2016 | Deutsch B1 (VHS, Berlin) |		
 
 ## SPRACHEN
 Ukrainisch, Russisch – Muttersprachler\
