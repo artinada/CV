@@ -210,6 +210,7 @@ _Source control:_ 		git, SVN
 Life Bridge Ukraine, Berlin\
 Project: evacuation of heavily injured people from Ukraine to Berlin for medical treatment\
 Responsibilities: assist with translations and  accompany patients to a local doctor, various offices or organizations\
+https://www.life-bridge-ukraine.com
 
 **05.2020 - 05.2023 -- Web Administrator**\
 Die Sputniks e.V., Berlin\
@@ -241,7 +242,7 @@ Master's degree, Finances
 ## LANGUAGES 
 Ukrainian, Russian - Native \
 English - Intermediate \
-German – Pre-Intermediate 
+German – Intermediate 
 
 ## INTERESTS 
 Genealogy, traveling, painting
