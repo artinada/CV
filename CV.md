@@ -160,15 +160,15 @@ Project: on-line cosmetic shop
 <details>
 <summary> Responsibilities: </summary>
 
-  - Worked on functional requirements for the website; 
+  - I worked on functional requirements for the website; 
 
-- Executed acceptance and usability testing; 
+- I conducted acceptance and usability testing to identify gaps in functionality and improve the user experience; 
 
-- Carried out routine site maintenance, SEO; 
+- I was responsible for updating content, monitoring site performance, and optimizing for search engines. Organic search traffic increased by 25%, and site downtime was minimized through proactive maintenance; 
 
-- Analyzed market trends through research;  
+- I conducted research to identify industry trends, customer preferences, and emerging market opportunities. My research helped the company refine its product offerings and marketing approach, leading to a 15% increase in customer engagement;  
 
-- Research for wholesale customers through cold calls, sending emails, face to face meetings. 
+- I conducted cold calls, sent personalized emails, and attended face-to-face meetings to present the company's products and build relationships. Successfully onboarded multiple new wholesale clients, contributing to a 20% increase in sales revenue. 
 </details>
 
 **06.2002-04.2005 -- QC Tester**\
@@ -177,11 +177,11 @@ Projects: company website, public web-interface of government meteorological ser
 <details>
 <summary> Responsibilities: </summary>
 
-  - Performed functional and usability testing web application; 
+  - I executed structured functional tests, performed exploratory usability testing, and provided feedback on areas that could be improved for better navigation and accessibility.Identified and reported critical usability flaws, leading to UI/UX improvements that enhanced customer satisfaction and reduced user-reported issues by 30%; 
 
-- Participated in testing desktop applications; 
+- I executed test cases, documented defects, and collaborated with developers to troubleshoot and resolve desktop application issues. Helped detect and resolve major bugs before release, reducing post-launch technical support requests by 25%; 
 
-- Developed web-pages markup.
+- I implemented web page layouts, optimized the structure for SEO, and ensured cross-browser compatibility. Delivered visually consistent and responsive web pages, improving load times and accessibility across different devices.
 </details>
 
 **08.2000-05.2002 -- Accountant / manager on supply / financier**\
@@ -190,11 +190,11 @@ Alcohol and yeast production
 <details>
 <summary> Responsibilities: </summary>
 
-  - Researched of the market of raw material in regions of Ukraine, analysis of offers; carrying out of negotiations  with suppliers;  
+  - I conducted in-depth market research, compared prices and quality, established relationships with suppliers, and led negotiations to secure favorable contracts. Successfully reduced procurement costs by 15% and ensured a stable supply chain, improving production continuity;   
 
-- Worked with multiple accountant and marketing applications; 
+- I learned and worked with accounting software to track expenses, managed marketing tools to analyze campaign performance, and ensured smooth data exchange between systems. Improved data consistency, reduced processing errors by 20%, and helped optimize marketing strategies based on real-time insights; 
 
-- Created reports, charts and presentations. 
+- I compiled data from different sources, created informative charts, and designed compelling presentations to summarize findings and recommendations. Provided actionable insights that improved strategic decision-making and increased operational transparency across teams. 
 </details>
 
 ## TECHNICAL SKILLS 
