@@ -11,7 +11,7 @@ Goetheweg 21, 06888 Lutherstadt Wittenberg\
 Experienced QA Lead and Information Security Specialist with over 10 years in IT, excelling in test automation, quality assurance, and ISO27001 compliance. Proven track record in streamlining QA processes, implementing automation frameworks, and enhancing system reliability through tools like TestCafe, Selenium, and DataDog. Skilled at fostering collaboration across teams, improving efficiency, and driving product quality through innovative practices like dogfooding sessions and bug triage meetings. Strong communicator with a passion for delivering secure, high-quality software solutions.
 
 ## WORK EXPERIENCE
-**12.2023 – heute -- Personal development** 
+**12.2023 – now -- Personal development** 
 <details>
 <summary> Professional development & project work: </summary>
   
