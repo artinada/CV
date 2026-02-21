@@ -10,7 +10,7 @@ Egestorffstraße 25 d, 12307 Berlin\
 
 ## BERUFSERFAHRUNG
 
-**12.2023 – heute**\
+**12.2023 – heute -- Persönliche Weiterentwiklung ** \
 <details>
 <summary>Berufliche Weiterentwicklung & Projektarbeit:</summary>
 	
