@@ -205,12 +205,19 @@ _Werkzeuge_: Xmind, TestRail, Postman, SoapUI, BrowserStack, Selenium IDE, Behav
 _Automatisierungs-Frameworks_: WDIO, Testcafe, Cypress, TestNG\
 _Fehlerverfolgung_: JIRA, Mantis, Bugzilla
 
+## PERSÖNLICHE STÄRKEN
+Analytisches und strukturiertes Denken\
+Hohe Auffassungsgabe in technischen Systemen\
+Verantwortungsbewusst und belastbar\
+Teamorientiert, hilfsbereit im Umgang mit Anwendern\
+Sicherer Umgang mit digitalen Systemen\
+Strukturierte und zuverlässige Arbeitsweise\
+Multitasking im Tagesgeschäft
+
 ## EHRENAMTLICHE ARBEIT
 **02.2024 – heute -- FamilySearch.org**\
 Projekt: eine gemeinnützige genealogische Organisation, die Zugang zu einer großen Datenbank mit historischen Aufzeichnungen und Werkzeugen zur Erforschung der Geschichte der eigenen Heimat bietet.\
 Verantwortlichkeiten: KI-Datenanalyse und -steuerung
-
-Website Übersetzung mit Lingotek, XTM Cloud
 
 **02.2024 – 08.2025 -- Life Bridge Ukraine**\
 Projekt: Evakuierung von schwer verletzten Personen aus der Ukraine nach Berlin zur medizinischen Behandlung\
