@@ -4,7 +4,7 @@
 Nadia Kamenski\
 E-Mail: artinada@gmail.com\
 Telefon: +4915787706065\
-Egestorffstraße 25 d, 12307 Berlin\
+Goetheweg 21, 06888 Lutherstadt Wittenberg\
 [LinkedIn](https://www.linkedin.com/in/nadia-kamenski-0749a323), 
 [XING](https://www.xing.com/profile/Nadia_Kamenski)
 
