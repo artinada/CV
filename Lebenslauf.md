@@ -215,7 +215,7 @@ Strukturierte und zuverlässige Arbeitsweise\
 Multitasking im Tagesgeschäft
 
 ## EHRENAMTLICHE ARBEIT
-**02.2024 – heute -- FamilySearch.org**\
+**02.2026 – heute -- FamilySearch.org**\
 Projekt: eine gemeinnützige genealogische Organisation, die Zugang zu einer großen Datenbank mit historischen Aufzeichnungen und Werkzeugen zur Erforschung der Geschichte der eigenen Heimat bietet.\
 Verantwortlichkeiten: KI-Datenanalyse und -steuerung
 
