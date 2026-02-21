@@ -9,6 +9,23 @@ Egestorffstraße 25 d, 12307 Berlin\
 [XING](https://www.xing.com/profile/Nadia_Kamenski)
 
 ## BERUFSERFAHRUNG
+
+**12.2023 – heute**\
+<details>
+<summary>Berufliche Weiterentwicklung & Projektarbeit:</summary>
+	
+- Weiterbildung im Bereich Cybersecurity (ISMS, Risikomanagement, Grundlagen ISO 27001, Security Awareness)
+  
+- Laufende Weiterbildung in Data Analytics (Datenanalyse, SQL, Python, Reporting, Visualisierung)
+  
+- Low-Code-Entwicklung: Konzeption und Umsetzung eigener Webprojekte (mapsuche.de, schotam.de)
+  
+- Teilnahme an Deutschkursen (aktuell Niveau B2, kontinuierliche Verbesserung Richtung C1)
+  
+- Ehrenamtliche Tätigkeit (Organisation / Unterstützung / digitale Projekte
+</details>
+
+
 **02.2022 - 11.2023 -- Qualitätssicherungsingenieurin / Informationssicherheitsbeauftragte** \
 Mindable GmbH, Berlin\
 Projekte:\
@@ -189,7 +206,13 @@ _Automatisierungs-Frameworks_: WDIO, Testcafe, Cypress, TestNG\
 _Fehlerverfolgung_: JIRA, Mantis, Bugzilla
 
 ## EHRENAMTLICHE ARBEIT
-**02.2024 – heute -- Life Bridge Ukraine**\
+**02.2024 – heute -- FamilySearch.org**\
+Projekt: eine gemeinnützige genealogische Organisation, die Zugang zu einer großen Datenbank mit historischen Aufzeichnungen und Werkzeugen zur Erforschung der Geschichte der eigenen Heimat bietet.\
+Verantwortlichkeiten: KI-Datenanalyse und -steuerung
+
+Website Übersetzung mit Lingotek, XTM Cloud
+
+**02.2024 – 08.2025 -- Life Bridge Ukraine**\
 Projekt: Evakuierung von schwer verletzten Personen aus der Ukraine nach Berlin zur medizinischen Behandlung\
 Verantwortlichkeiten: Unterstützung bei Übersetzungen und Begleitung von Patienten zu lokalen Ärzten, Behörden oder Organisationen.
  https://www.life-bridge-ukraine.com
@@ -206,6 +229,7 @@ Masterabschluss, Finanzen
 ## WEITERBILDUNG
 | Zeitraum  | Kurse |
 | ------------- | ------------- |
+| Februar 2026  | Grundlagen der Datenanalyse (GoIT, e-Learning)  |
 | Dezember 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
 | August 2024 | Cybersicherheit und Schutz von Informationssystemen (robot_dreams school, e-Learning) |		
 | Juli 2023 | Cyber Security Basics (robot_dreams school, e-Learning) |			
