@@ -22,7 +22,7 @@ Goetheweg 21, 06888 Lutherstadt Wittenberg\
   
 - Teilnahme an Deutschkursen (aktuell Niveau B2, kontinuierliche Verbesserung Richtung C1)
   
-- Ehrenamtliche Tätigkeit (Organisation / Unterstützung / digitale Projekte
+- Ehrenamtliche Tätigkeit (Organisation / Unterstützung / digitale Projekte)
 </details>
 
 
