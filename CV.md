@@ -4,13 +4,28 @@
 Nadia Kamenski\
 E-Mail: artinada@gmail.com\
 Telefon: +4915787706065\
-Egestorffstraße 25 d, 12307 Berlin\
+Goetheweg 21, 06888 Lutherstadt Wittenberg\
 [LinkedIn](https://www.linkedin.com/in/nadia-kamenski-0749a323)
 
 ## PROFESSIONAL SUMMARY
 Experienced QA Lead and Information Security Specialist with over 10 years in IT, excelling in test automation, quality assurance, and ISO27001 compliance. Proven track record in streamlining QA processes, implementing automation frameworks, and enhancing system reliability through tools like TestCafe, Selenium, and DataDog. Skilled at fostering collaboration across teams, improving efficiency, and driving product quality through innovative practices like dogfooding sessions and bug triage meetings. Strong communicator with a passion for delivering secure, high-quality software solutions.
 
 ## WORK EXPERIENCE
+**12.2023 – heute -- Personal development** 
+<details>
+<summary> Professional development & project work: </summary>
+  
+- Continuing education in cybersecurity (ISMS, risk management, security awareness)
+
+- Ongoing education in data analytics (data analysis, SQL, Python, reporting, visualization)
+
+- Low-code development: Design and implementation of own web projects (mapsuche.de, schotam.de)
+  
+- Participation in German courses (currently level B2, continuously improving towards C1)
+
+- Volunteer work (organization/support/digital projects)
+</details>
+	
 **02.2022 - 11.2023 -- Quality Assurance Engineer** \
 Mindable GmbH, Berlin\
 Projects: \
@@ -205,8 +220,21 @@ _Frameworks:_ 		WDIO, Testcafe, Cypress, TestNG \
 _Bug Tracking:_ 		JIRA, Mantis, Bugzilla \
 _Source control:_ 		git, SVN
 
+## PERSONAL STRENGTHS
+Analytical and structured thinking\
+High level of comprehension in technical systems\
+Responsible and resilient\
+Team-oriented, helpful in dealing with users\
+Confident in using digital systems\
+Structured and reliable way of working\
+Multitasking in day-to-day business
+
 ## VOLUNTEERING
-**02.2024 - now -- Translator**\
+**02.2026 – present -- FamilySearch.org**\
+Project: A nonprofit genealogical organization that provides access to a large database of historical records and tools for researching one's family history.\
+Responsibilities: AI data analysis and management
+
+**02.2024 - 08.2025 -- Translator**\
 Life Bridge Ukraine, Berlin\
 Project: evacuation of heavily injured people from Ukraine to Berlin for medical treatment\
 Responsibilities: assist with translations and  accompany patients to a local doctor, various offices or organizations\
@@ -226,6 +254,7 @@ Master's degree, Finances
 
 | Period  | Kurs |
 | ------------- | ------------- |
+| February 2026  | Fundamentals of data analysis (GoIT, e-Learning)  |
 | December 2024  | Deutsch für Beruf B2 (GFBM GmbH, Berlin)  |
 | Juli 2024  | Google Cybersecurity Program (Coursera, e-Learning)  |
 | August 2024 | Cybersecurity and protection of information systems (robot_dreams school, e-Learning) |		
