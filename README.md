@@ -1,10 +1,10 @@
 ## Lebenslauf / CV
 [auf Deutsch](https://github.com/artinada/CV/blob/main/Lebenslauf.md) \
 [on English](https://github.com/artinada/CV/blob/main/CV.md) 
-##  Referense letters: 
+## Zeugnisse / Referense letters: 
 - [Finiata](https://github.com/artinada/CV/blob/main/RL_Finiata.pdf) 
 - [AllAboutMe](https://github.com/artinada/CV/blob/main/RL_Tilda.pdf) 
-## Certifications: 
+## Zertifizierungen / Certifications: 
 - [CYBER SECURITY FOR BUSINESS](https://github.com/artinada/CV/blob/main/Nadiia-Kamenska_CYBER-SECURITY-FOR-BUSINESS.pdf)
 - [CYBER SECURITY BASICS](https://github.com/artinada/CV/blob/main/Nadiia-Kamenska_CYBER-SECURITY-BASICS_2023-07-17_r_d.pdf)
 - [Cypress Framework for End-to-End testing](https://github.com/artinada/CV/blob/main/UC-17422d9c-f6ad-405d-b565-a201d28625f0.pdf)
