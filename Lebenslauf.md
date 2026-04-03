@@ -51,13 +51,17 @@ Mobile App zur Unterstützung von Menschen mit Sozialphobie
 	
 - Vorbereitung auf das ISO 27001-Zertifizierungsaudit
 	
-- Entwicklung und Implementierung von Informationssicherheitsrichtlinien, -verfahren und -richtlinien zum Schutz der Informationsressourcen des Unternehmens
-  
-- Schulung der Teammitglieder über ihre Verantwortlichkeiten im Bereich der Informationssicherheit
+- Mitwirkung bei der Entwicklung und Implementierung interner Sicherheitsrichtlinien, Sicherheitsprozesse und Security-Awareness-Maßnahmen
   
 - Zusammenarbeit mit dem Team, um sicherzustellen, dass Informationssicherheits Anforderungen in Geschäftsprozesse integriert werden
   
 - Durchführung regelmäßiger Sicherheitsprüfungen und Bewertungen zur Bewertung der Wirksamkeit von Sicherheitsmaßnahmen und Identifizierung von Verbesserungsmöglichkeiten
+  
+- Mitverantwortung für Asset Management und die strukturierte Verwaltung informationsrelevanter Unternehmensressourcen
+  
+- Unterstützung bei Access-Management-Prozessen im Rahmen von Onboarding- und Offboarding-Abläufen, einschließlich der Vergabe, Anpassung und Nachverfolgung von Zugriffsrechten
+  
+- Mitwirkung an kontrollierten Abläufen zur Sicherstellung eines nachvollziehbaren Benutzer- und Berechtigungsmanagements
   
 - Regelmäßige Berichterstattung und Aktualisierung des oberen Managements über die Informationssicherheitslage des Unternehmens, einschließlich Risiken, Bedrohungen und Gegenmaßnahmen
 </details>
